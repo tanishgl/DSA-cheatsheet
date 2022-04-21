@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <!-- /* **** STYLING **** */ -->
+
+  <style>
+
+    * {
+      padding : 0;
+      margin : 0;
+      box-sizing : inherit;
+    }
+
+    html {
+      font-size : 62.5%;
+      box-sizing : border-box;
+    }
+
+    body {
+      padding : 5rem 10rem;
+      font-family : sans-serif;
+      color : #555;
+      text-transform : uppercase;
+    }
+
+    h1 {
+      font-size : 3.2rem;
+      margin-bottom : 3rem;
+    }
+
+    /* Topic Container */
+
+    .topic-container {
+      background-color : rgb(250, 250, 250);
+    }
+
+    .topic-card {
+      padding : 1rem 0rem;
+    }
+
+    .topic-card:hover {
+      box-shadow: 0.3rem 0.3rem 0rem .2rem rgba(212, 35, 198, 0.095);
+      transition : box-shadow .2s;
+    }
+
+    .question:link, .question:visited {
+      font-size : 3.8rem;
+      color : rgb(42, 86, 168);
+      font-weight : 500;
+      letter-spacing : 0.075rem;
+      text-decoration : none;
+    }
+
+
+    .question:hover, .question:active {
+      color : rgba(116, 11, 11, 0.733);
+      transition : color 0.8s;
+      cursor : pointer;
+    }
+
+  </style>
+</head>
+<body>
+  <header>
+    <h1> Questions </h1>
+  </header>
+
+  <div class="topic-container">
+    <div class="topic-card">
+      <a href="#"> Tribonacci </a>
+    </div>
+    <div class="topic-card">
+      <a href="https://leetcode.com/problems/fibonacci-number/"> Fibonacci Series </a>
+    </div>
+  </div>
+
+</body>
+</html>

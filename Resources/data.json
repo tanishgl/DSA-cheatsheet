@@ -1,0 +1,140 @@
+[
+  {
+    "name" : "Dynamic Programming",
+    "type" : "Algorithm",
+    "subtopics" : [
+      {
+        "name" : "fibonacci",
+        "questions" : [
+          {
+            "name" : "fibonacci",
+            "link" : "https://leetcode.com/problems/fibonacci-number/",
+            "level" : "easy",
+            "resource" : false
+          }, {
+            "name" : "tribonacci",
+            "link" : "https://leetcode.com/problems/n-th-tribonacci-number/",
+            "level" : "easy",
+            "resource" : false
+          }, {
+            "name" : "valid binary strings",
+            "link" : "https://practice.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1",
+            "level" : "medium",
+            "resource" : false
+          }, {
+            "name" : "super ugly number",
+            "link" : "https://leetcode.com/problems/super-ugly-number/",
+            "level" : "hard",
+            "resource" : false
+          }
+        ]
+      }, {
+        "name" : "pascal trianlge",
+        "questions" : [
+          {
+            "name" : "pascal triangle - 1",
+            "link" : "https://leetcode.com/problems/pascals-triangle/",
+            "level" : "easy",
+            "resource" : false
+          }, {
+            "name" : "pascal triangle - 3",
+            "link" : "https://leetcode.com/problems/pascals-triangle-ii/",
+            "level" : "medium",
+            "resource" : false
+          }
+        ]
+      }, {
+        "name" : "climbing stairs",
+        "questions" : [
+          {
+            "name" : "Nth climbing stair",
+            "link" : "https://leetcode.com/problems/climbing-stairs/",
+            "level" : "easy",
+            "resource" : false
+          }, {
+            "name" : "minimum moves",
+            "link" : "https://practice.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition0618/1/",
+            "level" : "medium",
+            "resource" : false
+          }, {
+            "name" : "Frog jump",
+            "link" : "https://leetcode.com/problems/frog-jump/",
+            "level" : "hard",
+            "resource" : false
+          }
+        ]
+      }
+    ]
+  }, {
+    "name" : "Graphs",
+    "type" : "Data Structure",
+    "subtopics" : [
+      {
+        "name" : "source to dest paths",
+        "questions" : [
+          {
+            "name" : "Hamiltonian path",
+            "link" : "https://practice.geeksforgeeks.org/problems/hamiltonian-path/0",
+            "level" : "medium",
+            "resource" : false
+          }, {
+            "name" : "Flood fill",
+            "link" : "https://leetcode.com/problems/flood-fill/",
+            "level" : "hard",
+            "resource" : false
+          }
+        ]
+      }, {
+        "name" : "Connected Components",
+        "questions" : [
+          {
+            "name" : "Is graph connected",
+            "link" : "https://nados.io/question/is-graph-connected",
+            "level" : "easy",
+            "resource" : false
+          }, {
+            "name" : "Number of islands",
+            "link" : "https://leetcode.com/problems/number-of-islands/",
+            "level" : "medium",
+            "resource" : false
+          }, {
+            "name" : "Number of islands - 2",
+            "link" : "https://leetcode.com/problems/number-of-provinces/",
+            "level" : "medium", 
+            "resource" : false
+          }, {
+            "name" : "Number of islands - 3",
+            "link" : "https://leetcode.com/problems/number-of-enclaves/",
+            "level" : "hard",
+            "resource" : false
+          }, {
+            "name" : "Permutation Swaps",
+            "link" : "https://www.interviewbit.com/problems/permutation-swaps/",
+            "level" : "hard",
+            "resource" : false
+          }
+        ]
+      }, {
+        "name" : "Graph coloring",
+        "questions" : [
+          {
+            "name" : "Bipartite Graph",
+            "link" : "https://leetcode.com/problems/is-graph-bipartite/",
+            "level" : "easy",
+            "resource" : false
+          }, {
+            "name" : "Two Clique problem",
+            "link" : "https://www.codingninjas.com/codestudio/problems/two-cliques_1214524",
+            "level" : "medium",
+            "resource" : false
+          }, {
+            "name" : "Graph coloring - 1",
+            "link" : "https://www.geeksforgeeks.org/graph-coloring-applications/",
+            "level" : "hard",
+            "resource" : false
+          }
+        ]
+      }
+    ]
+  }
+]
